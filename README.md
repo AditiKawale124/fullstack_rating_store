@@ -1,0 +1,1 @@
+# fullstack_rating_store
